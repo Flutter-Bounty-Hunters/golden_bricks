@@ -1,6 +1,14 @@
-# Golden Bricks
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7259036/189551232-8e8aaf8f-1869-433e-8d19-b91f5c4334ad.png" width="300" alt="Golden Bricks"><br>
+  <span><b>A better font for golden tests.</b></span><br><br>
+</p>
 
-A better font for golden tests.
+> This project is a Flutter Bounty Hunters [proof-of-concept](http://policies.flutterbountyhunters.com/proof-of-concept). Want font adjustments? [Fund a milestone](http://policies.flutterbountyhunters.com/fund-milestone) today!
+
+---
+
+# Golden Bricks Font
+Like the traditional Ahem font, the Golden Bricks font renders every character as a rectangle to avoid test failures due to anti-aliasing. Unlike the traditional Ahem font, the Golden Bricks font sizes each character rectangle similar to the standard English character, and also adds space between characters. As a result, text in your golden tests will be a similar size to regular text, and your test can render text selections that you can see across multiple characters.
 
 <p align="center">
   <img width="700" alt="Golen Bricks font screenshot" src="https://user-images.githubusercontent.com/7259036/189520359-f702481b-2eef-4340-bbfa-df16e66e6ab6.png">
