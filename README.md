@@ -2,7 +2,9 @@
 
 A better font for golden tests.
 
-<img width="700" alt="Golen Bricks font screenshot" src="https://user-images.githubusercontent.com/7259036/189520359-f702481b-2eef-4340-bbfa-df16e66e6ab6.png">
+<p align="center">
+  <img width="700" alt="Golen Bricks font screenshot" src="https://user-images.githubusercontent.com/7259036/189520359-f702481b-2eef-4340-bbfa-df16e66e6ab6.png">
+</p>
 
 # How to use the Golden Bricks font in an app
 Use the Golden Bricks font by setting the `fontFamily` of a `TextStyle`:
