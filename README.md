@@ -33,7 +33,7 @@ Future<void> testExecutable(FutureOr<void> Function() testMain) async {
 ```
 
 Once the font is loaded, use the font in your tests, as desired. The easiest way to use the
-Golden Blocks font in a test is to configure the default theme font family to use the Golden Bricks
+Golden Bricks font in a test is to configure the default theme font family to use the Golden Bricks
 font.
 
 ```dart
