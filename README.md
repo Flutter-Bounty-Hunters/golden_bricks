@@ -2,6 +2,8 @@
 
 A better font for golden tests.
 
+<img width="912" alt="Screen Shot 2022-09-11 at 12 08 04 AM" src="https://user-images.githubusercontent.com/7259036/189520301-b8c56535-9e89-49a0-a4a0-7f5bc5c5bdb8.png">
+
 # How to use the Golden Bricks font in an app
 Use the Golden Bricks font by setting the `fontFamily` of a `TextStyle`:
 ```dart
