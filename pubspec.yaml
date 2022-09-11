@@ -1,5 +1,6 @@
 name: golden_bricks
 description: A better font for golden tests
+repository: https://github.com/Flutter-Bounty-Hunters/golden_bricks
 
 version: 1.0.0
 
