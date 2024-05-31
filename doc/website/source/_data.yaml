@@ -1,9 +1,10 @@
+homepage_url: https://flutter-bounty-hunters.github.io/golden_bricks/
+
 # Configuration for the package that this website documents.
 package:
   name: golden_bricks
   title: Golden Bricks
   description: A better font for golden tests
-  homepage_url: https://flutter-bounty-hunters.github.io/golden_bricks/
   type: flutter
   is_on_pub: true
   github:
