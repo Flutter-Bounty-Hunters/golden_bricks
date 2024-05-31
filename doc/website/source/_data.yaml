@@ -1,0 +1,18 @@
+# Configuration for the package that this website documents.
+package:
+  name: golden_bricks
+  title: Golden Bricks
+  description: A better font for golden tests
+  is_on_pub: true
+  github:
+    url: https://github.com/flutter-bounty-Hunters/golden_bricks
+    organization: flutter-bounty-hunters
+    name: golden_bricks
+  discord: https://discord.gg/8hna2VD32s
+  sponsorship: https://flutterbountyhunters.com
+
+# Configuration of the GitHub plugin for loading info about GitHub repositories.
+github:
+  contributors:
+    repositories:
+      - { organization: flutter-bounty-hunters, name: golden_bricks }
