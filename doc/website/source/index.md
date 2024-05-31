@@ -62,7 +62,7 @@ testWidgets("renders in golden tests", (tester) async {
 });
 ```
 
-## Built by the Flutter Bounty Hunters
+## Built by the<br>Flutter Bounty Hunters
 This package was built by the [Flutter Bounty Hunters (FBH)](https://flutterbountyhunters.com). 
 The Flutter Bounty Hunters is a development agency that works exclusively on open source Flutter 
 and Dark packages.

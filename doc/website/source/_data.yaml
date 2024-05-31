@@ -3,6 +3,7 @@ package:
   name: golden_bricks
   title: Golden Bricks
   description: A better font for golden tests
+  type: flutter
   is_on_pub: true
   github:
     url: https://github.com/flutter-bounty-Hunters/golden_bricks
