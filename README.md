@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7259036/189551232-8e8aaf8f-1869-433e-8d19-b91f5c4334ad.png" width="300" alt="Golden Bricks"><br>
-  <span><b>A better font for golden tests.</b></span><br><br>
+  <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/fcd9e03c-473b-4e52-9649-e514b6313628" alt="Golden Bricks - A better font for golden tests">
 </p>
 
-> This project is a Flutter Bounty Hunters [proof-of-concept](http://policies.flutterbountyhunters.com/proof-of-concept). Want font adjustments? [Fund a milestone](http://policies.flutterbountyhunters.com/fund-milestone) today!
+<p align="center">
+  <a href="https://flutterbounythunters.com">
+    <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/aa803356-0035-40ca-b9e3-d544d356d82c" alt="Built by the Flutter Bounty Hunters">
+  </a>
+</p>
+
 
 ---
 
