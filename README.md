@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/fcd9e03c-473b-4e52-9649-e514b6313628" alt="Golden Bricks - A better font for golden tests">
+  <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/0cdae236-f78b-404e-bd6c-2d51cc44f1a6" alt="Golden Bricks - A better font for golden tests">
 </p>
 
 <p align="center">
   <a href="https://flutterbountyhunters.com" target="_blank">
-    <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/aa803356-0035-40ca-b9e3-d544d356d82c" alt="Built by the Flutter Bounty Hunters">
+    <img src="https://github.com/Flutter-Bounty-Hunters/flutter_test_robots/assets/7259036/1b19720d-3dad-4ade-ac76-74313b67a898" alt="Built by the Flutter Bounty Hunters">
   </a>
 </p>
-
 
 ---
 
