@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://flutterbounythunters.com">
+  <a href="https://flutterbountyhunters.com" target="_blank">
     <img src="https://github.com/Flutter-Bounty-Hunters/golden_bricks/assets/7259036/aa803356-0035-40ca-b9e3-d544d356d82c" alt="Built by the Flutter Bounty Hunters">
   </a>
 </p>
