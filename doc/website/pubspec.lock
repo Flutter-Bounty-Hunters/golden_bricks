@@ -537,10 +537,11 @@ packages:
   static_shock:
     dependency: "direct main"
     description:
-      path: "/Users/matt/Projects/static_shock/packages/static_shock"
-      relative: false
-    source: path
-    version: "0.0.5"
+      name: static_shock
+      sha256: "213b15e6da8c61c67d72d2aa1573f1fa4c6ecbb9eeb8c0af8d478cfdc2f41348"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.9"
   stream_channel:
     dependency: transitive
     description:

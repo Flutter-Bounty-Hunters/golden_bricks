@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<br><br>
+
+<p align="center">Check out our <a href="https://flutter-bounty-hunters.github.io/golden_bricks/" target="_blank">Usage Guide</a></p>
+
 ---
 
 # Golden Bricks Font
